@@ -8,7 +8,7 @@
   "server": {
     "ip": "devildad12.aternos.me",
     "port":30363,
-    "version": "1.26.2"
+    "version": "1.26"
   },
   "position": {
     "enabled": true,
